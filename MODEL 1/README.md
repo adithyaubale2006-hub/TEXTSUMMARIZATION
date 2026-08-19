@@ -1,11 +1,3 @@
-Note: This repository was reorganized — original project files have been moved into the MODEL 1/ directory.
-
-- The original README and notebook have been copied to MODEL 1/README.md and MODEL 1/TEXTSUMMARIZATION.ipynb.
-
-See MODEL 1/README.md for the full project information and instructions.
-
----
-
 # Text Summarization using PEGASUS
 
 ##  Overview
